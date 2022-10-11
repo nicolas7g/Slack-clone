@@ -1,0 +1,9 @@
+body{
+  --slack-color: #3f0f40;/*declaro esta variable global para utilizarla en otros css*/
+  overflow: hidden;
+}
+
+.app__body{
+  display: flex;
+  height: 100vh;
+}
